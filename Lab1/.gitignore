@@ -1,0 +1,18 @@
+# Generated output images
+out_*.png
+
+# Temporary Claude files
+tmpclaude-*
+
+# MS Office temporary files
+~$*.docx
+
+# Documentation files (report)
+Lab1_Variant15.docx
+IS1_Goryunov.docx
+
+# Generated reports and temporary files
+generate_report.py
+SUMMARY.txt
+PARAMETERS_V15.txt
+00_READ_ME_FIRST.txt
